@@ -69,9 +69,9 @@ namespace Actividad_Integradora_2_Problema_4
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(119, 399);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(112, 41);
+            this.label2.Size = new System.Drawing.Size(240, 41);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Envio:  ";
+            this.label2.Text = "Costo de Envio:  ";
             // 
             // label3
             // 
@@ -85,7 +85,7 @@ namespace Actividad_Integradora_2_Problema_4
             // lblEnvio
             // 
             this.lblEnvio.AutoSize = true;
-            this.lblEnvio.Location = new System.Drawing.Point(214, 399);
+            this.lblEnvio.Location = new System.Drawing.Point(340, 399);
             this.lblEnvio.Name = "lblEnvio";
             this.lblEnvio.Size = new System.Drawing.Size(50, 41);
             this.lblEnvio.TabIndex = 5;
@@ -94,7 +94,7 @@ namespace Actividad_Integradora_2_Problema_4
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(326, 463);
+            this.lblTotal.Location = new System.Drawing.Point(310, 463);
             this.lblTotal.Name = "lblTotal";
             this.lblTotal.Size = new System.Drawing.Size(50, 41);
             this.lblTotal.TabIndex = 6;
